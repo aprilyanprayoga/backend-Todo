@@ -4,7 +4,7 @@
   "private": true,
   "description": "REST API To-Do List multi-user (Express + TypeScript + Supabase)",
   "main": "dist/server.js",
-  "engines": { "node": ">=20" },
+  "engines": { "node": ">=22" },
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "build": "tsc -p tsconfig.build.json",
